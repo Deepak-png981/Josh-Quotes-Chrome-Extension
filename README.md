@@ -15,7 +15,8 @@ random Quotes with full of josh.
 
 Install my-project on your chrome extension simply by following these steps
 
-```bash
+```bash![Screenshot (253)](https://user-images.githubusercontent.com/64543095/198517590-a494b82e-a56e-4a4d-aed6-75fa85cdadcb.png)
+
   first clone this project to your pc 
   Then open chrome , tap on three dots on the corner 
   Select " More Tools " 
@@ -32,6 +33,11 @@ Install my-project on your chrome extension simply by following these steps
 - Mood lightner
 - API calls 
 - Fetch function
+
+## 📷Screenshot 
+
+![Screenshot (253)](https://user-images.githubusercontent.com/64543095/198517631-3323b981-71fb-43ec-b4f5-aaba31771b1d.png)
+
 
 
 ## 🚀 About Me
